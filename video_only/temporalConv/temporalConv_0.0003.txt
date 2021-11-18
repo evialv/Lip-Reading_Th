@@ -1,0 +1,30 @@
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+train from scratch
+----------
+Epoch 0/29
+Current Learning rate: [0.0003]
+train from scratch
+----------
+Epoch 0/29
+Current Learning rate: [0.0003]
+train from scratch
+----------
+Epoch 0/29
+Current Learning rate: [0.0003]
+train from scratch
+----------
+Epoch 0/29
+Current Learning rate: [0.0003]
